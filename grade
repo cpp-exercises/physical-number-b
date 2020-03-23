@@ -1,6 +1,6 @@
 #!/bin/bash
 source grade_utils
-printf "\n\n*** Grade physical-number *** \n\n"
+printf "\n\n*** Grade physical-number part B *** \n\n"
 
 make clean
 call make -f Makefile test
